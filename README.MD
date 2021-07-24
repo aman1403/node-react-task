@@ -38,7 +38,7 @@ Verify the deployment by navigating to your server address in your preferred bro
 ```
 
 ```sh
-127.0.0.1:5000                                           #Express-API
+127.0.0.1:5000                                           #Node.js-API
 ```
 
 > You can also go to pdf folder in server directory and checkout the Table and List Format Pdfs.
