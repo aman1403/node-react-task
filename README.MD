@@ -20,7 +20,7 @@ yarn start
 ```
 
 
-## Client Side(Server)
+## Server Side(Server)
 
 ```sh
 yarn install
